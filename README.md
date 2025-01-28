@@ -11,4 +11,4 @@ Profile picture with round corners and a border.
 Biography section in center.
 Footer with copyright details.
 
-live:
+live: https://imrankhanbio.netlify.app/
